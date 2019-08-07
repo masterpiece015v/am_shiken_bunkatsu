@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/am_shiken_bunkatsu.iml" filepath="$PROJECT_DIR$/.idea/am_shiken_bunkatsu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearning/.idea/deeplearning.iml" filepath="$PROJECT_DIR$/../deeplearning/.idea/deeplearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keras/.idea/keras.iml" filepath="$PROJECT_DIR$/../keras/.idea/keras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../omr/.idea/omr.iml" filepath="$PROJECT_DIR$/../omr/.idea/omr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensor/.idea/tensor.iml" filepath="$PROJECT_DIR$/../tensor/.idea/tensor.iml" />
+    </modules>
+  </component>
+</project>
